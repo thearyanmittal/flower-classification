@@ -1,0 +1,2 @@
+# Flower Classification Notebook
+This is a Jupyter Notebook (best run in Google Colab) that serves as a beginner's tutorial for creating a convolutional neural network that can identify the type of flower in an image. The dataset used is TensorFlow's flower dataset.
